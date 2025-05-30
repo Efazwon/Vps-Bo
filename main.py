@@ -50,7 +50,7 @@ async def update_status():
 
 async def main():
     asyncio.create_task(update_status())
-    await bot.start('YOUR BOT TOKEN HERE')
+    await bot.start('MTM3Nzg5ODgzMTU2MzMyNTQ2MQ.GjGoM4.4Oubh3RoyQgsRgaPlbeghln5AugfL40zcBqCok')
 
 if __name__ == "__main__":
     asyncio.run(main())
