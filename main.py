@@ -44,7 +44,7 @@ async def main():
     if not token:
         print("ERROR: DISCORD_TOKEN environment variable not set.")
         return
-    await bot.start(token)
+    await bot.start(MTM3Nzg5ODgzMTU2MzMyNTQ2MQ.GjGoM4.4Oubh3RoyQgsRgaPlbeghln5AugfL40zcBqCok)
 
 if __name__ == "__main__":
     asyncio.run(main())
